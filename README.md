@@ -5,3 +5,4 @@
 2. Factory Method Pattern
 3. E-commerce Platform Search Function
 4. Financial Forecasting
+5. Builder Pattern
