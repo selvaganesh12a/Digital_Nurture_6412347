@@ -6,3 +6,4 @@
 3. E-commerce Platform Search Function
 4. Financial Forecasting
 5. Builder Pattern
+6. Adapter Pattern
