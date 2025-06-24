@@ -7,3 +7,4 @@
 4. Financial Forecasting
 5. Builder Pattern
 6. Adapter Pattern
+7. Decorator Pattern
