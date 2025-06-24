@@ -8,3 +8,8 @@
 5. Builder Pattern
 6. Adapter Pattern
 7. Decorator Pattern
+
+### Week 2
+
+### PL/SQL
+1. Exercise 1 (Three types of Scenarios)
