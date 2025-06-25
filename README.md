@@ -13,3 +13,4 @@
 
 ### PL/SQL
 1. Exercise 1 (Three types of Scenarios)
+2. Exercise 3 (Three types of Scenarios)
