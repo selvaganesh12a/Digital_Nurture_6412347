@@ -1,5 +1,6 @@
 # Digital_Nurture_6412347
 # Hands_On's Completed
+
 ## Week 1
 1. Singleton Pattern
 2. Factory Method Pattern
@@ -18,3 +19,6 @@
 2. Exercise 2 - Writing Basic JUnit Tests
 3. Exercise 3 - Assertions in JUnit 
 4. Exercise 4 - Arrange-Act-Assert (AAA) Pattern
+### Mockito
+1. Exercise 1 - Mocking and Stubbing
+2. Exercise 2 - Verifying Interactions
