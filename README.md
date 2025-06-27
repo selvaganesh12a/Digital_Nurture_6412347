@@ -15,3 +15,6 @@
 2. Exercise 3 (Three types of Scenarios)
 ### JUnit
 1. Exercise 1 - Setting up JUnit
+2. Exercise 2 - Writing Basic JUnit Tests
+3. Exercise 3 - Assertions in JUnit 
+4. Exercise 4 - Arrange-Act-Assert (AAA) Pattern
