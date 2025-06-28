@@ -22,3 +22,5 @@
 ### Mockito
 1. Exercise 1 - Mocking and Stubbing
 2. Exercise 2 - Verifying Interactions
+### SL4J
+1. Exercise 1 - Logging Error Messages and Warning Levels
