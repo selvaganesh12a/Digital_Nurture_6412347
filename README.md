@@ -24,3 +24,7 @@
 2. Exercise 2 - Verifying Interactions
 ### SL4J
 1. Exercise 1 - Logging Error Messages and Warning Levels
+
+## Week 3
+### Spring Core and Maven
+Exercise 1 to Exercise 8 Completed.
