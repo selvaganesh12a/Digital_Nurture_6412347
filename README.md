@@ -44,3 +44,4 @@ Exercise 1 to Exercise 8 Completed.
 ### Spring Data JPA
 
 1. Spring Data JPA - Quick Example
+2. Difference Between JPA, Hibernate and Spring Data JPA
