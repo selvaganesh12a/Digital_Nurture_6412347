@@ -28,3 +28,5 @@
 ## Week 3
 ### Spring Core and Maven
 Exercise 1 to Exercise 8 Completed.
+### Spring Data JPA
+1. Spring Data JPA - Quick Example
