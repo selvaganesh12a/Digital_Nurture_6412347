@@ -45,3 +45,13 @@ Exercise 1 to Exercise 8 Completed.
 
 1. Spring Data JPA - Quick Example
 2. Difference Between JPA, Hibernate and Spring Data JPA
+
+## Week 4
+
+### Spring REST
+1. Create a Spring Web Project using Maven
+2. Spring Core – Load Country from Spring Configuration XML
+3. Hello World RESTful Web Service
+4. REST - Country Web Service
+5. REST - Get country based on country code
+6. Create authentication service that returns JWT
