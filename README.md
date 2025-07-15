@@ -55,3 +55,8 @@ Exercise 1 to Exercise 8 Completed.
 4. REST - Country Web Service
 5. REST - Get country based on country code
 6. Create authentication service that returns JWT
+
+## Week 5
+
+### MicroServices
+1. Creating Microservices for account and loan
