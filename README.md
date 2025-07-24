@@ -60,3 +60,8 @@ Exercise 1 to Exercise 8 Completed.
 
 ### MicroServices
 1. Creating Microservices for account and loan
+
+## Week 6
+
+### React
+Completed the React Hands-On Exercises.
