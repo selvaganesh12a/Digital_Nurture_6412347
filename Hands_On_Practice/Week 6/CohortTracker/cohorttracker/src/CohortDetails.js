@@ -1,15 +1,29 @@
-import React, { Component } from 'react';
+import styles from '../src/CohortDetails.module.css';
+function CohortDetails(props) {
+    const statusClass =
+      props.cohort.currentStatus == "Scheduled"
+        ? styles.statusGreen
+        : styles.statusBlue;
 
-class CohortDetails extends Component {
-  render() {
-    const headingColor = this.props.status === "Ongoing" ? "green" : "blue";
     return (
-      <div style={{ border: '1px solid black', margin: '10px', padding: '10px' }}>
-        <h2 style={{ color: headingColor }}>{this.props.name}</h2>
-        <p>Status: {this.props.status}</p>
-      </div>
-    );
-  }
-}
+        <div className={styles.box}>
+            <h3 className={statusClass}>
+                {props.cohort.cohortCode} -
+                <span>{props.cohort.technology}</span>
+            </h3>
+            <dl>
+                <dt>Started On</dt>
+                <dd>{props.cohort.startDate}</dd>
+                <dt>Current Status</dt>
+                <dd>{props.cohort.currentStatus}</dd>
+                <dt>Coach</dt>
+                <dd>{props.cohort.coachName}</dd>
+                <dt>Trainer</dt>
+                <dd>{props.cohort.trainerName}</dd>
+            </dl>
+        </div>
 
+        
+    );
+}
 export default CohortDetails;

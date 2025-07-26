@@ -1,13 +1,15 @@
-import React from 'react';
+import logo from './logo.svg';
 import './App.css';
-import CohortDetails from './CohortDetails';
+import { CohortsData} from './Cohort'
+import CohortDetails from './CohortDetails'; 
 
 function App() {
+ 
   return (
-    <div className="App">
-      <CohortDetails name="Digital Nurture" status="Ongoing" />
-      <CohortDetails name="Java Developer" status="Completed" />
-    </div>
+  <div>
+    <h1>Cohorts Details</h1>
+    {CohortsData.map(cohort => <CohortDetails cohort={cohort}/>)}
+  </div>
   );
 }
 
